@@ -1,2 +1,2 @@
 # itsketant.github.io
-New Angular Project
+New Project
